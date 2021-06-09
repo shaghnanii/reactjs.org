@@ -15,6 +15,15 @@ ReactDOM.render(
 );
 ```
 
+Functional Component
+```
+export const = () => {
+  return (
+      <h1>Hello React !</h1>
+  );
+}
+```
+
 It displays a heading saying "Hello, world!" on the page.
 
 [](codepen://hello-world)
